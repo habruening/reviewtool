@@ -1,0 +1,12 @@
+{:document-under-review "howto.pdf",
+ :title "DocBoov v5.0 - The Transition Guide",
+ :date "16-06-2009",
+ :about-the-document "about.html",
+ :author "hbruening",
+ :reviewers
+ {"Hartmut Brüning" [:mandatory :completed],
+  "Jean Luc Picard" [:optional :outstanding],
+  "Wilian Riker" [:uninvolved :outstanding],
+  "Peter Brüning" [:uninvolved :started],
+  "asdf" [:uninvolved :nocomments],
+  "asdfsadf" [:uninvolved :started]}}
